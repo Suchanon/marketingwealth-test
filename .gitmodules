@@ -1,0 +1,6 @@
+[submodule "order-management-backend"]
+	path = order-management-backend
+	url = https://github.com/Suchanon/order-management-backend2.git
+[submodule "order-management-frontend"]
+	path = order-management-frontend
+	url = https://github.com/Suchanon/order-management-frontend.git
